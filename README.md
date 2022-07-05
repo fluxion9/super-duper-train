@@ -1,2 +1,2 @@
-# super-duper-train
-bms-controller
+# Battery-Management-Sytem
+Repository for BMS design and related technologies
